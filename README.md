@@ -1,5 +1,6 @@
 
 Cellulate: a dangerous module for a thread-safer world.
+--------------------------------
 
 Celluloid is designed to be mixed into a class at definition, and instantiate
 actor obscured objects from the moment they are created. This is a sane
